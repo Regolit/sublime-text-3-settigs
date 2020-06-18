@@ -1,0 +1,15 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"AutoFileName",
+		"Emmet",
+		"HTMLBeautify",
+		"Package Control",
+		"SideBarEnhancements",
+		"Xdebug Client"
+	]
+}
