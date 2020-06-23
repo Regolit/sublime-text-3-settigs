@@ -488,10 +488,7 @@
 					}
 				},
 				{
-					"contents": "<?php \nnamespace engine;\n\nclass cms{\n\nprivate $di;\n\npublic function __construct($di)\n\t{\n\n\t\t$this->di=$di;\n\n\t}\n\npublic function run()\n\t{\n\t\tprint_r($this->di);\n\t}\n}\n\n\n?>",
 					"file": "/D/OpenServer/domains/portal/engine/cms.php",
-					"file_size": 188,
-					"file_write_time": 132373824328544748,
 					"settings":
 					{
 						"buffer_size": 167,
@@ -855,8 +852,8 @@
 								"selection":
 								[
 									[
-										110,
-										110
+										25,
+										25
 									]
 								],
 								"settings":
@@ -941,7 +938,7 @@
 				"height": 37.0
 			},
 			"pinned_build_system": "",
-			"position": "0,2,3,-32000,-32000,-1,-1,806,170,128,1330",
+			"position": "0,2,3,-1,-1,-1,-1,806,170,128,1330",
 			"project": "",
 			"replace":
 			{
